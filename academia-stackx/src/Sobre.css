@@ -1,0 +1,29 @@
+.sobre-container {
+    padding: 50px; 
+    text-align: center; 
+  }
+  
+  .sobre-title {
+    margin-bottom: 20px; 
+    font-size: 32px; 
+    color: #333; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+  }
+  
+  .sobre-description {
+    margin-bottom: 20px; 
+    text-align: left; 
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .sobre-image {
+    max-width: 100%; 
+    height: auto;
+    margin-top: 20px; 
+  }
+  
